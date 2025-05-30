@@ -1,4 +1,4 @@
-<h1 align="center">Hi All😊, I'm Anuriya Ravindran</h1>
+<h1 align="center">Hi All😊, I'm Anuriya Raveendran</h1>
 
 <h3 align="center">Aspiring Data Scientist | Data Analyst | AI Enthusiast | MSc Physics Graduate</h3>
 
